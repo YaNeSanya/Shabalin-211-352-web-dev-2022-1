@@ -178,6 +178,21 @@ body::after {
     gap: 0.625rem;
 }
 
+.vse {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.vse1 {
+    margin-top: 5px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
 @media all and (max-width: 768px) {
 
     .main-menu ul {

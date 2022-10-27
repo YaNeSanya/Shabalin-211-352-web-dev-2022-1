@@ -7,10 +7,21 @@
 
 .products-list {
     justify-content: center;
+    display: block;
 }
 
 .products-category-header {
     text-align: center;
+    display: block;
+}
+
+.page-content {
+    display: block;
+}
+
+img {
+    display: block;
+    break-inside: avoid;
 }
 
 .control .btn {
